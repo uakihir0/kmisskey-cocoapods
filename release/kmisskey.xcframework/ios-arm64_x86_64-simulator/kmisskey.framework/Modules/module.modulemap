@@ -1,0 +1,5 @@
+framework module "kmisskey" {
+    umbrella header "kmisskey.h"
+    export *
+    module * { export * }
+}
